@@ -12,8 +12,8 @@
         <nav>
             <ul>
                 <li><a href="index.html">Inicio</a></li>
-                <li><a href="catalogo.html">Catálogo</a></li>
-                <li><a href="contacto.html">Contacto</a></li>
+                <li><a href="catalogo.jsp">Catalogo</a></li>
+                <li><a href="contacto.jsp">Contacto</a></li>
             </ul>
         </nav>
     </header>
